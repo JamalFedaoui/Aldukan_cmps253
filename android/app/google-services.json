@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089140673898",
+    "firebase_url": "https://aldukan.firebaseio.com",
+    "project_id": "aldukan",
+    "storage_bucket": "aldukan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089140673898:android:7920d3ab0ba893d6fe2913",
+        "android_client_info": {
+          "package_name": "com.dukan2.aldukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089140673898-3j5k46jbpsspb1dvfnl05o6cm3hb9pl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVzpkNqBWAtz2QHJpu4rkqMeu-srlT8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089140673898-3j5k46jbpsspb1dvfnl05o6cm3hb9pl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089140673898-3eqtc4q4s5e8qs4okhgq1i4pevodnbh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.dukan2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
